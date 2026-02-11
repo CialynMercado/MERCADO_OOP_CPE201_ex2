@@ -798,9 +798,9 @@
             label20.Font = new Font("Palatino Linotype", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label20.Location = new Point(526, 269);
             label20.Name = "label20";
-            label20.Size = new Size(52, 18);
+            label20.Size = new Size(55, 18);
             label20.TabIndex = 29;
-            label20.Text = "Orange";
+            label20.Text = "Label20";
             label20.TextAlign = ContentAlignment.TopCenter;
             // 
             // label21
@@ -809,9 +809,9 @@
             label21.Font = new Font("Palatino Linotype", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label21.Location = new Point(397, 269);
             label21.Name = "label21";
-            label21.Size = new Size(71, 18);
+            label21.Size = new Size(55, 18);
             label21.TabIndex = 28;
-            label21.Text = "Cucumber";
+            label21.Text = "Label21";
             label21.TextAlign = ContentAlignment.TopCenter;
             // 
             // label22
@@ -820,9 +820,9 @@
             label22.Font = new Font("Palatino Linotype", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label22.Location = new Point(276, 269);
             label22.Name = "label22";
-            label22.Size = new Size(87, 18);
+            label22.Size = new Size(55, 18);
             label22.TabIndex = 27;
-            label22.Text = "Mango Shake";
+            label22.Text = "Label22";
             label22.TextAlign = ContentAlignment.TopCenter;
             // 
             // label23
@@ -831,9 +831,9 @@
             label23.Font = new Font("Palatino Linotype", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label23.Location = new Point(135, 269);
             label23.Name = "label23";
-            label23.Size = new Size(120, 18);
+            label23.Size = new Size(55, 18);
             label23.TabIndex = 26;
-            label23.Text = "Watermelon Shake";
+            label23.Text = "Label23";
             label23.TextAlign = ContentAlignment.TopCenter;
             // 
             // label24
@@ -842,9 +842,9 @@
             label24.Font = new Font("Palatino Linotype", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label24.Location = new Point(21, 269);
             label24.Name = "label24";
-            label24.Size = new Size(90, 18);
+            label24.Size = new Size(61, 18);
             label24.TabIndex = 25;
-            label24.Text = "Pomelo Shake";
+            label24.Text = "Labele24";
             label24.TextAlign = ContentAlignment.TopCenter;
             // 
             // label19
@@ -853,9 +853,9 @@
             label19.Font = new Font("Palatino Linotype", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label19.Location = new Point(516, 136);
             label19.Name = "label19";
-            label19.Size = new Size(79, 18);
+            label19.Size = new Size(55, 18);
             label19.TabIndex = 24;
-            label19.Text = "Crispy Pata";
+            label19.Text = "Label19";
             label19.TextAlign = ContentAlignment.TopCenter;
             // 
             // label18
@@ -864,9 +864,9 @@
             label18.Font = new Font("Palatino Linotype", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label18.Location = new Point(380, 135);
             label18.Name = "label18";
-            label18.Size = new Size(101, 18);
+            label18.Size = new Size(55, 18);
             label18.TabIndex = 23;
-            label18.Text = "Grilled Mussels";
+            label18.Text = "Label18";
             label18.TextAlign = ContentAlignment.TopCenter;
             // 
             // label17
@@ -875,9 +875,9 @@
             label17.Font = new Font("Palatino Linotype", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label17.Location = new Point(263, 135);
             label17.Name = "label17";
-            label17.Size = new Size(100, 18);
+            label17.Size = new Size(55, 18);
             label17.TabIndex = 22;
-            label17.Text = "Crispy Chicken";
+            label17.Text = "Label17";
             label17.TextAlign = ContentAlignment.TopCenter;
             label17.Click += label17_Click;
             // 
@@ -887,9 +887,9 @@
             label16.Font = new Font("Palatino Linotype", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label16.Location = new Point(164, 136);
             label16.Name = "label16";
-            label16.Size = new Size(54, 18);
+            label16.Size = new Size(55, 18);
             label16.TabIndex = 21;
-            label16.Text = "Seafood";
+            label16.Text = "Label16";
             label16.TextAlign = ContentAlignment.TopCenter;
             label16.Click += label16_Click;
             // 
@@ -899,9 +899,9 @@
             label11.Font = new Font("Palatino Linotype", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label11.Location = new Point(52, 136);
             label11.Name = "label11";
-            label11.Size = new Size(36, 18);
+            label11.Size = new Size(48, 18);
             label11.TabIndex = 20;
-            label11.Text = "Sisig";
+            label11.Text = "Label1";
             label11.TextAlign = ContentAlignment.TopCenter;
             // 
             // pictureBox17
@@ -1125,7 +1125,7 @@
             pictureBox1.TabStop = false;
             pictureBox1.Click += pictureBox1_Click;
             // 
-            // Form1
+            // Example3
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -1155,7 +1155,7 @@
             Controls.Add(label5);
             Controls.Add(groupBox1);
             Controls.Add(label1);
-            Name = "Form1";
+            Name = "Example3";
             Text = "Form1";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);

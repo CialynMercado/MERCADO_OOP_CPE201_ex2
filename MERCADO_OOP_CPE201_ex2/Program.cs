@@ -11,7 +11,7 @@ namespace MERCADO_OOP_CPE201_ex2
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Example3());
+            Application.Run(new Lesson2_Activity());
         }
     }
 }
